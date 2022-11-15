@@ -48,7 +48,7 @@ public class LabController : Controller
     {
         Lab lab = _context.Labs.Find(id);
 
-        if(lab == null)
+        if(!ModelState.IsValid)
         {
             return Content("Computador não existe");
         }
@@ -62,7 +62,7 @@ public class LabController : Controller
     {
         Lab lab = _context.Labs.Find(labViewModel.Id);
 
-        if(lab == null)
+        if(!ModelState.IsValid)
         {
             return Content("Lab com Id não encontrado");
         }

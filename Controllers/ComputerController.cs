@@ -50,7 +50,7 @@ public class ComputerController : Controller
     {
         Computer computer = _context.Computers.Find(id);
 
-        if(computer == null)
+        if(!ModelState.IsValid)
         {
             return Content("Computador não existe");
         }
@@ -64,7 +64,7 @@ public class ComputerController : Controller
     {
         Computer computer = _context.Computers.Find(computerViewModel.Id);
 
-        if(computer == null)
+        if(!ModelState.IsValid)
         {
             return Content("Computer com Id não encontrado");
         }
