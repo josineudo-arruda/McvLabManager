@@ -1,0 +1,100 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MvcLabManager
+build_property.RootNamespace = MvcLabManager
+build_property.ProjectDir = C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/JosineudoArruda/Documents/TERCEIRO ANO IFSP/Técnico/LGC3/MvcLabManager/Views/Computer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHV0ZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JosineudoArruda/Documents/TERCEIRO ANO IFSP/Técnico/LGC3/MvcLabManager/Views/Computer/Creating.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHV0ZXJcQ3JlYXRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JosineudoArruda/Documents/TERCEIRO ANO IFSP/Técnico/LGC3/MvcLabManager/Views/Computer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHV0ZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JosineudoArruda/Documents/TERCEIRO ANO IFSP/Técnico/LGC3/MvcLabManager/Views/Computer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHV0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JosineudoArruda/Documents/TERCEIRO ANO IFSP/Técnico/LGC3/MvcLabManager/Views/Computer/Show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHV0ZXJcU2hvdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JosineudoArruda/Documents/TERCEIRO ANO IFSP/Técnico/LGC3/MvcLabManager/Views/Computer/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHV0ZXJcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JosineudoArruda/Documents/TERCEIRO ANO IFSP/Técnico/LGC3/MvcLabManager/Views/Computer/Updating.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHV0ZXJcVXBkYXRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JosineudoArruda/Documents/TERCEIRO ANO IFSP/Técnico/LGC3/MvcLabManager/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JosineudoArruda/Documents/TERCEIRO ANO IFSP/Técnico/LGC3/MvcLabManager/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JosineudoArruda/Documents/TERCEIRO ANO IFSP/Técnico/LGC3/MvcLabManager/Views/Lab/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFiXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JosineudoArruda/Documents/TERCEIRO ANO IFSP/Técnico/LGC3/MvcLabManager/Views/Lab/Creating.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFiXENyZWF0aW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JosineudoArruda/Documents/TERCEIRO ANO IFSP/Técnico/LGC3/MvcLabManager/Views/Lab/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFiXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JosineudoArruda/Documents/TERCEIRO ANO IFSP/Técnico/LGC3/MvcLabManager/Views/Lab/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFiXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JosineudoArruda/Documents/TERCEIRO ANO IFSP/Técnico/LGC3/MvcLabManager/Views/Lab/Show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFiXFNob3cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JosineudoArruda/Documents/TERCEIRO ANO IFSP/Técnico/LGC3/MvcLabManager/Views/Lab/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFiXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JosineudoArruda/Documents/TERCEIRO ANO IFSP/Técnico/LGC3/MvcLabManager/Views/Lab/Updating.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFiXFVwZGF0aW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JosineudoArruda/Documents/TERCEIRO ANO IFSP/Técnico/LGC3/MvcLabManager/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JosineudoArruda/Documents/TERCEIRO ANO IFSP/Técnico/LGC3/MvcLabManager/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JosineudoArruda/Documents/TERCEIRO ANO IFSP/Técnico/LGC3/MvcLabManager/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JosineudoArruda/Documents/TERCEIRO ANO IFSP/Técnico/LGC3/MvcLabManager/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JosineudoArruda/Documents/TERCEIRO ANO IFSP/Técnico/LGC3/MvcLabManager/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8yxww06vzk

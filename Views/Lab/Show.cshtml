@@ -1,0 +1,11 @@
+@model MvcLabManager.Models.Lab;
+
+@{
+    ViewData["Title"] = $"Laboratório {Model.Id}";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Id: @Model.Id</p>
+<p>Nome: @Model.Name</p>
+<p>Número: @Model.Number</p>
+<p>Sector: @Model.Sector</p>

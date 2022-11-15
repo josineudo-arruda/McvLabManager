@@ -1,0 +1,25 @@
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="text-center">
+    <h1>Criar elemento</h1>
+    <p class="center" style="margin-bottom: 45px;">Crie um elemento novo:</p>
+    <form action="Creating" method="post">
+        <table style="margin-left:500px;">
+            <tr>
+                <th><label for="id">Id:</label></th>
+                <th><input type="text" name="id" id="Id"></th>
+            </tr>
+            <tr>
+                <th><label for="ram">Ram:</label></th>
+                <th><input type="text" name="ram" id="Ram"></th>
+            </tr>
+            <tr>
+                <th><label for="processor">Processor:</label></th>
+                <th><input type="text" name="processor" id="Processor"></th>
+            </tr>
+        </table>
+        <input style="margin-top:20px" type="submit" value="Enviar">
+    </form>
+</div>

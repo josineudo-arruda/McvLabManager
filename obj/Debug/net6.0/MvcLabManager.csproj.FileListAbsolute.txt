@@ -1,0 +1,100 @@
+/home/estudante/Documentos/Sp3045439/MvcLabManager/obj/Debug/net6.0/MvcLabManager.csproj.AssemblyReference.cache
+/home/estudante/Documentos/Sp3045439/MvcLabManager/obj/Debug/net6.0/MvcLabManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudante/Documentos/Sp3045439/MvcLabManager/obj/Debug/net6.0/MvcLabManager.AssemblyInfoInputs.cache
+/home/estudante/Documentos/Sp3045439/MvcLabManager/obj/Debug/net6.0/MvcLabManager.AssemblyInfo.cs
+/home/estudante/Documentos/Sp3045439/MvcLabManager/obj/Debug/net6.0/MvcLabManager.csproj.CoreCompileInputs.cache
+/home/estudante/Documentos/Sp3045439/MvcLabManager/obj/Debug/net6.0/MvcLabManager.MvcApplicationPartsAssemblyInfo.cache
+/home/estudante/Documentos/Sp3045439/MvcLabManager/obj/Debug/net6.0/MvcLabManager.RazorAssemblyInfo.cache
+/home/estudante/Documentos/Sp3045439/MvcLabManager/obj/Debug/net6.0/MvcLabManager.RazorAssemblyInfo.cs
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/appsettings.Development.json
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/appsettings.json
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/MvcLabManager.staticwebassets.runtime.json
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/MvcLabManager
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/MvcLabManager.deps.json
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/MvcLabManager.runtimeconfig.json
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/MvcLabManager.dll
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/MvcLabManager.pdb
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/Google.Protobuf.dll
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/MySql.Data.dll
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/ZstdNet.dll
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/MySql.EntityFrameworkCore.dll
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/System.Windows.Extensions.dll
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/estudante/Documentos/Sp3045439/MvcLabManager/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/estudante/Documentos/Sp3045439/MvcLabManager/obj/Debug/net6.0/staticwebassets.build.json
+/home/estudante/Documentos/Sp3045439/MvcLabManager/obj/Debug/net6.0/staticwebassets.development.json
+/home/estudante/Documentos/Sp3045439/MvcLabManager/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/estudante/Documentos/Sp3045439/MvcLabManager/obj/Debug/net6.0/scopedcss/bundle/MvcLabManager.styles.css
+/home/estudante/Documentos/Sp3045439/MvcLabManager/obj/Debug/net6.0/scopedcss/projectbundle/MvcLabManager.bundle.scp.css
+/home/estudante/Documentos/Sp3045439/MvcLabManager/obj/Debug/net6.0/MvcLabManager.csproj.CopyComplete
+/home/estudante/Documentos/Sp3045439/MvcLabManager/obj/Debug/net6.0/MvcLabManager.dll
+/home/estudante/Documentos/Sp3045439/MvcLabManager/obj/Debug/net6.0/refint/MvcLabManager.dll
+/home/estudante/Documentos/Sp3045439/MvcLabManager/obj/Debug/net6.0/MvcLabManager.pdb
+/home/estudante/Documentos/Sp3045439/MvcLabManager/obj/Debug/net6.0/MvcLabManager.genruntimeconfig.cache
+/home/estudante/Documentos/Sp3045439/MvcLabManager/obj/Debug/net6.0/ref/MvcLabManager.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\obj\Debug\net6.0\MvcLabManager.csproj.AssemblyReference.cache
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\obj\Debug\net6.0\MvcLabManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\obj\Debug\net6.0\MvcLabManager.AssemblyInfoInputs.cache
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\obj\Debug\net6.0\MvcLabManager.AssemblyInfo.cs
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\obj\Debug\net6.0\MvcLabManager.csproj.CoreCompileInputs.cache
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\obj\Debug\net6.0\MvcLabManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\obj\Debug\net6.0\MvcLabManager.RazorAssemblyInfo.cache
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\obj\Debug\net6.0\MvcLabManager.RazorAssemblyInfo.cs
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\obj\Debug\net6.0\MvcLabManager.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\obj\Debug\net6.0\refint\MvcLabManager.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\obj\Debug\net6.0\MvcLabManager.pdb
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\appsettings.json
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\MvcLabManager.staticwebassets.runtime.json
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\MvcLabManager.exe
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\MvcLabManager.deps.json
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\MvcLabManager.runtimeconfig.json
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\MvcLabManager.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\MvcLabManager.pdb
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\obj\Debug\net6.0\scopedcss\bundle\MvcLabManager.styles.css
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\obj\Debug\net6.0\scopedcss\projectbundle\MvcLabManager.bundle.scp.css
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\obj\Debug\net6.0\MvcLabManager.csproj.CopyComplete
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\obj\Debug\net6.0\MvcLabManager.genruntimeconfig.cache
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\MvcLabManager\obj\Debug\net6.0\ref\MvcLabManager.dll

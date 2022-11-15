@@ -1,0 +1,29 @@
+@model MvcLabManager.Models.Lab;
+@{
+    ViewData["Title"] = $"Atualizando {Model.Id}";
+}
+
+<div class="text-center">
+    <h1>Atualizar @Model.Id</h1>
+    <form action="Updating" method="post">
+        <table style="margin-left:500px;">
+            <tr>
+                <th><label for="id">Id:</label></th>
+                <th><input readonly value="@Model.Id" type="text" name="Id" id="Id" ></th>
+            </tr>
+            <tr>
+                <th><label for="name">Nome:</label></th>
+                <th><input placeholder="@Model.Name"type="text" name="Name" id="Name"></th>
+            </tr>
+            <tr>
+                <th><label for="number">Número:</label></th>
+                <th><input placeholder="@Model.Number"type="text" name="Number" id="Number"></th>
+            </tr>
+            <tr>
+                <th><label for="sector">Sector:</label></th>
+                <th><input placeholder="@Model.Sector"type="text" name="Sector" id="Sector"></th>
+            </tr>
+        </table>
+        <input style="margin-top:20px" type="submit" value="Enviar">
+    </form>
+</div>
